@@ -1,8 +1,8 @@
 ﻿namespace Colorful
 {
-    public sealed class DefaultFonts
-    {
-        public static readonly string SmallSlant = @"flf2a$ 5 4 14 15 10 0 22415
+  public sealed class DefaultFonts
+  {
+    public static readonly string SmallSlant = @"flf2a$ 5 4 14 15 10 0 22415
 SmSlant by Glenn Chappell 6/93 - based on Small & Slant
 Includes ISO Latin-1
 figlet release 2.1 -- 12 Aug 1994
@@ -1100,5 +1100,5 @@ __/_/@
  \_, /  @
 /___/   @@
 ";
-    }
+  }
 }
